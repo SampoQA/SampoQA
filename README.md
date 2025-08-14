@@ -7,9 +7,7 @@
 - 
 - 💬 Ask me about manual testing, test case design, or how to start a QA journey.
 - 📫 How to reach me: tertusampo@gmail.com
-- 
-- ⚡ Fun fact: I can find a bug in almost anything — even in coffee recipes ☕🐞
-- ⚡ I'm fan of Kalevala and Finnish culture
+  
 
 # 👋 Привет!
 
